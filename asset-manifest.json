@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.becb9fc7.css",
+    "main.js": "/static/js/main.0a2d89ea.js",
+    "static/js/787.43f7d673.chunk.js": "/static/js/787.43f7d673.chunk.js",
+    "static/media/paper.jpg": "/static/media/paper.067f4c2c0d8594aa5df1.jpg",
+    "static/media/Якуб2.jpg": "/static/media/Якуб2.fd0def04aac51ec1da3e.jpg",
+    "static/media/Антон1.jpg": "/static/media/Антон1.6b50ff0b8c2d5ee2609d.jpg",
+    "static/media/Nil3.jpg": "/static/media/Nil3.3c89c49d9607b704171a.jpg",
+    "static/media/Олег.jpg": "/static/media/Олег.725b96fd487c122baccc.jpg",
+    "static/media/Якуб4.jpg": "/static/media/Якуб4.42a715522706da5497a2.jpg",
+    "static/media/Maks3.jpg": "/static/media/Maks3.5c4b3011bb2c18bcdcca.jpg",
+    "static/media/ЯкубГориз.jpg": "/static/media/ЯкубГориз.d32c1fa739b3a3c87d54.jpg",
+    "static/media/NilHoriz.jpg": "/static/media/NilHoriz.f6b530bee57e9a06411c.jpg",
+    "static/media/KorotkyHoriz.jpg": "/static/media/KorotkyHoriz.f0f0a73cc3b6028d1537.jpg",
+    "static/media/Янка3.jpg": "/static/media/Янка3.462670dc2acb646676c9.jpg",
+    "static/media/Nil1.jpg": "/static/media/Nil1.358bf18b29dd2bd40d26.jpg",
+    "static/media/Maks1.jpg": "/static/media/Maks1.d0357dd9dda8fd90677a.jpg",
+    "static/media/Maks2.jpg": "/static/media/Maks2.637d4f197978ac348969.jpg",
+    "static/media/Nil2.jpg": "/static/media/Nil2.e2541e87e3de647caac8.jpg",
+    "static/media/Korotky3.jpg": "/static/media/Korotky3.502e6002d034898bec3d.jpg",
+    "static/media/MaksHoriz.jpeg": "/static/media/MaksHoriz.3852be1321bb7fbea405.jpeg",
+    "static/media/Янка1.jpg": "/static/media/Янка1.cb2ca9d8bd7c1c00fc08.jpg",
+    "static/media/Korotky1.jfif": "/static/media/Korotky1.5d3b4ea44240173e4aee.jfif",
+    "static/media/Якуб4.jfif": "/static/media/Якуб4.c9e0ceb949566b83c578.jfif",
+    "static/media/Korotky2.jfif": "/static/media/Korotky2.6e553386e5c396d05784.jfif",
+    "static/media/ЯнкаГоризонт.jfif": "/static/media/ЯнкаГоризонт.40fc7a1553ea5d682c31.jfif",
+    "static/media/Янка2.jfif": "/static/media/Янка2.f8a1edf26ce12b943b66.jfif",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.becb9fc7.css.map": "/static/css/main.becb9fc7.css.map",
+    "main.0a2d89ea.js.map": "/static/js/main.0a2d89ea.js.map",
+    "787.43f7d673.chunk.js.map": "/static/js/787.43f7d673.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.becb9fc7.css",
+    "static/js/main.0a2d89ea.js"
+  ]
+}
